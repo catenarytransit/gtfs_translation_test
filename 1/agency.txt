@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+3270001000564,日本交通,http://www.nihonkotsu.jp/,Asia/Tokyo,ja,0857-23-1122,,
